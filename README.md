@@ -1,4 +1,4 @@
-# Artificial Nueral Nework-Model
+# Artificial Nueral Network-Model
 ANN-entering future
 Combined Cycle Power Plant Performance Prediction
 Overview
